@@ -19,7 +19,7 @@ This project was built to practice **WinForms UI development**, **event handling
 
 ## 🖥️ Preview
 
-![Main Window](Screenshots/main-window.png)
+![Main Window](MyFirstWinFormsProject/Screenshots/main-window.png)
 
 ---
 
